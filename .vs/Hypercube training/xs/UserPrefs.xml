@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{64EBCA65-B0E6-618D-C138-010BAB1D7468}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/hypertest.cs">
+    <Files>
+      <File FileName="Assets/hypertest.cs" Line="334" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hypercube training" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aebfdd08-3ec3-493b-a104-aeacc66ebb9c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
