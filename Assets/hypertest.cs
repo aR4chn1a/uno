@@ -1,7 +1,6 @@
-﻿using UnityEngine;
+﻿# using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
-using System;
+# using System;
 
 [RequireComponent(typeof(MeshFilter))]
 [RequireComponent(typeof(MeshRenderer))]
